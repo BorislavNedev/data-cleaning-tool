@@ -1,1 +1,1 @@
-This is a small cleaning tool for data using python and pandas
+This is a small cleaning tool project using python and pandas
